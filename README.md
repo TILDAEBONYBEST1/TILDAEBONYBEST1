@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer/developer
 ---------------------------
 
-I've been learning software engineering for 6months now, after switching career as a Civil Engineer. I have accurate knowledge in the use of programming language like HTML, C and Python
+I've been learning software engineering for 6months now, with a career as a Civil Engineer. I have accurate knowledge in the use of programming language like HTML, C and Python
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [matildahanetu@gmail.com](mailto: matildahanetu@gmail.com )
