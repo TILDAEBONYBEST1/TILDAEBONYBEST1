@@ -8,7 +8,7 @@ I've been learning software engineering for 6months now, with a career as a Civi
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [matildahanetu@gmail.com](mailto: matildahanetu@gmail.com )
-* 🧠  I'm learning Back-End Engineering
+* 🧠  I'm learning Front-End Engineering
 * 🤝  I'm open to collaborating on Backend
 
 ### Skills
